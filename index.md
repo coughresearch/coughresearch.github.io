@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Quick detail
+## coughresearch.ai
 
 > I am working on the first level COVID-19 screening using cough sound, fever and other vital information.
 > First prototype         : 12 March 2020 with wet and dry cough sounds
