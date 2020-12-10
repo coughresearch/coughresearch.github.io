@@ -10,5 +10,5 @@ layout: default
 
 * Current status          : Detailed analysis on covid-19 demographic data and cough sounds.
 * csp (cough signal processing) and other code related to research project is here : [Cough Research Code](https://github.com/coughresearch)
-* Our Research paper got accepted at ACM SAC 2021. Preprint is available here  [Arxiv Preprint](https://arxiv.org/abs/2010.02417)
+* Our Research paper on COVID-19 cough classfication got accepted at ACM SAC 2021. Preprint is available here  [Arxiv Preprint](https://arxiv.org/abs/2010.02417)
 
